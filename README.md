@@ -5,7 +5,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=DorianHerzig9&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/DorianHerzig9"
-  width="900"
+  width="800"
   height="300"
 />
 </a>
